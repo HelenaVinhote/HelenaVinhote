@@ -33,32 +33,27 @@
 
 ### 💻 Programming & Databases
 
-<p>
+<p align= "center">
   <img src="https://skillicons.dev/icons?i=python,mysql" height="50"/>
 </p>
 
 ### 🎨 Design
 
-<p>
+<p align= "center">
   <img src="https://skillicons.dev/icons?i=figma" height="50"/>
 </p>
 
 ### 🌐 Networking & Education
 
-<p>
+<p align= "center">
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="50"/>
   <img src="https://cdn.simpleicons.org/scratch/FAB000" height="50"/>
 </p>
 
-### 🤖 Robotics
-
-<p>
-  <img src="https://cdn.simpleicons.org/lego/FF0000" height="50"/>
-</p>
 
 ### 🎮 Game Development
 
-<p>
+<p align= "center">
   <img src="https://cdn.simpleicons.org/gamemaker/000000" height="50"/>
 </p>
 
