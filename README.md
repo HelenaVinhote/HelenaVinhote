@@ -29,33 +29,22 @@
   at the Federal University of Western Pará (UFOPA).
 </p>
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-### 💻 Programming & Databases
-
-<p align= "center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" height="50"/>
-</p>
-
-### 🎨 Design
 
 <p align= "center">
-  <img src="https://skillicons.dev/icons?i=figma" height="50"/>
-</p>
-
-### 🌐 Networking & Education
-
-<p align= "center">
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="50"/>
-  <img src="https://cdn.simpleicons.org/scratch/FAB000" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40"/>
+  <img src="https://cdn.simpleicons.org/scratch/FAB000" height="40"/>
+  <img src="https://cdn.simpleicons.org/gamemaker/000000" height="40"/>
+  <img src="https://avatars.slack-edge.com/2025-09-05/9451547185895_795cd3f3470e568b183a_512.png" height="40"/>
+  <img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-codeql/1.17.8/1784318056895/Microsoft.VisualStudio.Services.Icons.Default" height="40"/>
 </p>
 
 
-### 🎮 Game Development
 
-<p align= "center">
-  <img src="https://cdn.simpleicons.org/gamemaker/000000" height="50"/>
-</p>
+
 
 
 
