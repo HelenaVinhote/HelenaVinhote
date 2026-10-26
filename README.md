@@ -29,19 +29,38 @@
   at the Federal University of Western Pará (UFOPA).
 </p>
 
-<h2 align="left">Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,figma" height="50" alt="Python, MySQL e Figma"/>
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="50" alt="Cisco Packet Tracer"/>
-  <img src="https://cdn.simpleicons.org/scratch/FAB000" height="50" alt="Scratch"/>
-  <img src="https://cdn.simpleicons.org/gamemaker/000000" height="50" alt="GameMaker"/>
-  <img src="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2018%2F10%2F5bc1a508956e1.png&w=96&h=96&q=100" height="50" alt= "Lego education"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWhK-R_Tbit9RrpbhpbOx1GtEEBgI94FnOcCU2E-HNA&s=10" height="50" alt= "Anvil"/>
+## 🛠️ Tools & Technologies
+
+### 💻 Programming & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" height="50"/>
 </p>
 
-<h2 align="left">Learning...</h2>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="50" alt="Arduino"/>
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" height="50"/>
+</p>
+
+### 🌐 Networking & Education
+
+<p>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="50"/>
+  <img src="https://cdn.simpleicons.org/scratch/FAB000" height="50"/>
+</p>
+
+### 🤖 Robotics
+
+<p>
+  <img src="https://cdn.simpleicons.org/lego/FF0000" height="50"/>
+</p>
+
+### 🎮 Game Development
+
+<p>
+  <img src="https://cdn.simpleicons.org/gamemaker/000000" height="50"/>
+</p>
 
 
 
