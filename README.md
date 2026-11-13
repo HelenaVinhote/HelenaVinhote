@@ -18,18 +18,12 @@
   </a>
 </p>
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 <p>
-  I am a graduate of the integrated high school and technical program in
-  <strong><span style="color:#58A6FF;">Information Technology</span></strong>
-  at the Federal Institute of Pará (IFPA) – Santarém campus, with interests
-  in technology, education, robotics, and healthcare. Currently, I am pursuing
-  a degree in
-  <strong><span style="color:#A371F7;">Artificial Intelligence</span></strong>
-  at the Federal University of Western Pará (UFOPA).
+ Sou formada em curso integrado de ensino médio e técnico em Informática do Instituto Federal do Pará (IFPA) – campus Santarém, com interesse em tecnologia, educação, robótica e saúde. Atualmente, curso graduação em Inteligência Artificial na Universidade Federal do Oeste do Pará (UFOPA).
 </p>
 
-## Tools & Technologies
+## Ferramentas e tecnologias
 
 
 <p align= "center">
